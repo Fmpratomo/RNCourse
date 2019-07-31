@@ -4,7 +4,7 @@ import ComponentAnak from './anak'
 
 export default class induk extends Component {
     constructor () {    
-        super()    
+        super()   //oke 
         this.state = {      
             peoples: [{        
                 name: 'Obi Wan',    
